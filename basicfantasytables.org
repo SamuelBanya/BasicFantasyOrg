@@ -376,3 +376,161 @@ Thief Abilities Table:
 |          19 |         87 |           82 |           98 |            91 |          98 |   72 |     92 |
 |          20 |         88 |           83 |           99 |            93 |          99 |   73 |     95 |
 |-------------+------------+--------------+--------------+---------------+-------------+------+--------|
+* Equipment
+** Equipment Table
+Equipment Table:
+
+|----------------------------+-------+--------|
+| Item                       | Price | Weight |
+|----------------------------+-------+--------|
+| Backpack                   | 4 gp  |      * |
+| Belt Pouch                 | 1 gp  |      * |
+| Bit and bridle             | 15 sp |      3 |
+| Candles, 12                | 1 gp  |      * |
+| Chalk, small bag of pieces | 2 gp  |      * |
+| Cloak                      | 2 gp  |      1 |
+| Clothing, common outfit    | 4 gp  |      1 |
+| Glass bottle or vial       | 1 gp  |      * |
+| Grappling Hook             | 2 gp  |      4 |
+| Holy Symbol                | 25 gp |      * |
+| Holy Water, per vial       | 10 gp |      * |
+| Horseshoes & shoeing       | 1 gp  |     10 |
+| Ink, per jar               | 8 gp  |      ½ |
+| Iron Spikes, 12            | 1 gp  |      1 |
+| Ladder, 10 ft.             | 1 gp  |     20 |
+| Lantern                    | 5 gp  |      2 |
+| Lantern, Bullseye          | 14 gp |      3 |
+| Lantern, Hooded            | 8 gp  |      2 |
+| Manacles (without padlock) | 6 gp  |      4 |
+| Map or scrollcase          | 1 gp  |      ½ |
+| Mirror, small metal        | 7 gp  |      * |
+| Oil (per flask)            | 1 gp  |      1 |
+| Padlock (with 2 keys)      | 12 gp |      1 |
+| Paper (per sheet)          | 1 gp  |     ** |
+| Pole, 10' wooden           | 1 gp  |     10 |
+| Quill                      | 1 sp  |     ** |
+| Quill Knife                | 1 gp  |      * |
+| Quiver or Bolt case        | 1 gp  |      1 |
+| Rations, Dry, one week     | 10 gp |     14 |
+| Rope, Hemp (per 50 ft.)    | 1 gp  |      5 |
+| Rope, Silk (per 50 ft.)    | 10 gp |      2 |
+| Sack, Large                | 1 gp  |      * |
+| Sack, Small                | 5 sp  |      * |
+| Saddle, Pack               | 5 gp  |     15 |
+| Saddle, Riding             | 10 gp |     35 |
+| Saddlebags, pair           | 4 gp  |      7 |
+| Spellbook (128 pages)      | 25 gp |      1 |
+| Tent, Large (ten men)      | 25 gp |     20 |
+| Tent, Small (one man)      | 5 gp  |     10 |
+| Thieves' picks and tools   | 25 gp |      1 |
+| Tinderbox, flint and steel | 3 gp  |      1 |
+| Torches, 6                 | 1 gp  |      1 |
+| Whetstone                  | 1 gp  |      1 |
+| Whistle                    | 1 gp  |     ** |
+| Wineskin/Waterskin         | 1 gp  |      2 |
+| Winter blanket             | 1 gp  |      3 |
+|----------------------------+-------+--------|
+
+* Weapon Table
+Weapon Table:
+
+|---------------------+----------+---------+--------+------+------+------|
+| Weapon              | Price    | Size    | Weight | Dmg. |      |      |
+|---------------------+----------+---------+--------+------+------+------|
+| Axes                |          |         |        |      |      |      |
+|---------------------+----------+---------+--------+------+------+------|
+| Hand                | Axe      | 4       | gp     | S    |    5 |  1d6 |
+| Battle              | Axe      | 7       | gp     | M    |    7 |  1d8 |
+| Great               | Axe      | 14      | gp     | L    |   15 | 1d10 |
+|---------------------+----------+---------+--------+------+------+------|
+| Bows                |          |         |        |      |      |      |
+|---------------------+----------+---------+--------+------+------+------|
+| Shortbow            | 25       | gp      | M      | 2    |      |      |
+| Shortbow            | Arrow    | 1       | sp     | *    |  1d6 |      |
+| Silver†             | Shortbow | Arrow   | 2      | gp   |    * |  1d6 |
+| Longbow             | 60       | gp      | L      | 3    |      |      |
+| Longbow             | Arrow    | 2       | sp     | *    |  1d8 |      |
+| Silver†             | Longbow  | Arrow   | 4      | gp   |    * |  1d8 |
+| Light               | Crossbow | 30      | gp     | M    |    7 |      |
+| Light               | Quarrel  | 2       | sp     | *    |  1d6 |      |
+| Silver†             | Light    | Quarrel | 5      | gp   |    * |  1d6 |
+| Heavy               | Crossbow | 50      | gp     | L    |   14 |      |
+| Heavy               | Quarrel  | 4       | sp     | *    |  1d8 |      |
+| Silver†             | Heavy    | Quarrel | 10     | gp   |    * |  1d8 |
+|---------------------+----------+---------+--------+------+------+------|
+| Daggers             |          |         |        |      |      |      |
+|---------------------+----------+---------+--------+------+------+------|
+| Dagger              | 2        | gp      | S      | 1    |  1d4 |      |
+| Silver†             | Dagger   | 25      | gp     | S    |    1 |  1d4 |
+|---------------------+----------+---------+--------+------+------+------|
+| Swords              |          |         |        |      |      |      |
+| Shortsword          | 6        | gp      | S      | 3    |  1d6 |      |
+| Longsword/Scimitar  | 10       | gp      | M      | 4    |  1d8 |      |
+| Two-Handed          | Sword    | 18      | gp     | L    |   10 | 1d10 |
+|---------------------+----------+---------+--------+------+------+------|
+| Hammers And Maces   |          |         |        |      |      |      |
+|---------------------+----------+---------+--------+------+------+------|
+| Warhammer           | 4        | gp      | S      | 6    |  1d6 |      |
+| Mace                | 6        | gp      | M      | 10   |  1d8 |      |
+| Maul                | 10       | gp      | L      | 16   | 1d10 |      |
+|---------------------+----------+---------+--------+------+------+------|
+| Other               | Weapons  |         |        |      |      |      |
+|---------------------+----------+---------+--------+------+------+------|
+| Club/Cudgel/Walking | Staff    | 2       | sp     | M    |    1 |  1d4 |
+| Quarterstaff        | 2        | gp      | L      | 4    |  1d6 |      |
+| Pole                | Arm      | 9       | gp     | L    |   15 | 1d10 |
+| Sling               | 1        | gp      | S      | *    |      |      |
+| Bullet              | 1        | sp      | *      | 1d4  |      |      |
+| Stone               | n/a      | *       | 1d3    |      |      |      |
+| Spear               | 5        | gp      | M      | 5    |      |      |
+| Thrown              | (one     | handed) | 1d6    |      |      |      |
+| Melee               | (one     | handed) | 1d6    |      |      |      |
+| Melee               | (two     | handed) | 1d8    |      |      |      |
+|---------------------+----------+---------+--------+------+------+------|
+
+* Missle Weapon Ranges Table
+
+Missle Weapon Ranges Table:
+
+|-------------------+------------+------------+-----------|
+| Weapon            | Short (+1) | Medium (0) | Long (-2) |
+|-------------------+------------+------------+-----------|
+| Longbow           |         70 |        140 |       210 |
+| Shortbow          |         50 |        100 |       150 |
+| Heavy Crossbow    |         80 |        160 |       240 |
+| Light Crossbow    |         60 |        120 |       180 |
+| Dagger            |         10 |         20 |        30 |
+| Hand Axe          |         10 |         20 |        30 |
+| Oil or Holy Water |         10 |         30 |        50 |
+| Sling             |         30 |         60 |        90 |
+| Spear             |         10 |         20 |        30 |
+| Warhammer         |         10 |         20 |        30 |
+|-------------------+------------+------------+-----------|
+
+* Armor And Shields Table
+
+Armor And Shields Table:
+
+|---------------+--------+--------+----|
+| Armor Type    | Price  | Weight | AC |
+|---------------+--------+--------+----|
+| No Armor      | 0 gp   |      0 | 11 |
+| Leather Armor | 20 gp  |     15 | 13 |
+| Chain Mail    | 60 gp  |     40 | 15 |
+| Plate Mail    | 300 gp |     50 | 17 |
+| Shield        | 7 gp   |      5 | +1 |
+|---------------+--------+--------+----|
+
+* Beasts Of Burden Table
+
+Beasts Of Burden Table:
+
+|---------------+--------|
+| Item          | Price  |
+|---------------+--------|
+| Horse, Draft  | 120 gp |
+| Horse, War    | 200 gp |
+| Horse, Riding | 75 gp  |
+| Pony*         | 40 gp  |
+| Pony, War*    | 80 gp  |
+|---------------+--------|
