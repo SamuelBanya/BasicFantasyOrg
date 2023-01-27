@@ -534,3 +534,1051 @@ Beasts Of Burden Table:
 | Pony*         | 40 gp  |
 | Pony, War*    | 80 gp  |
 |---------------+--------|
+* Vehicle Tables
+** Land Transportation Table
+Land Transportation Table:
+
+|---------+-----------------+--------+-----------+-----------+---------------+-----------|
+| Vehicle | Length x width* | Weight | Cargo     | Movement  | Hardness / HP | Cost (gp) |
+|---------+-----------------+--------+-----------+-----------+---------------+-----------|
+| Chariot | 15' x 6'        | 300    | 750 lbs   | 60' (10') | 10 / 10       |       400 |
+| Coach   | 30' x 8'        | 1,000  | 2,000 lbs | 40' (15') | 6 / 12        |     1,500 |
+| Wagon   | 35' x 8'        | 2,000  | 4,000 lbs | 20' (15') | 6 / 16        |       500 |
+|---------+-----------------+--------+-----------+-----------+---------------+-----------|
+
+- NOTE: Includes hitched horses or mules
+
+** Water Transportation Table
+Water Transportation Table:
+
+|---------------+----------------+----------+------+----------+-------+-----------+---------------+-----------|
+| Vehicle       | Length x Width | Cargo    | Crew | Movement |       | Miles/Day | Hardness / HP | Cost (gp) |
+|---------------+----------------+----------+------+----------+-------+-----------+---------------+-----------|
+| Canoe         | 15' x 4'       | ½  ton   |    1 | 40'      | (5')  |        30 | 4 / 4         | 50        |
+| Caravel       | 55' x 15'      | 75 tons  |   10 | 20'      | (20') |        42 | 8 / 75        | 10,000    |
+| Carrack       | 60' x 20'      | 135 tons |   20 | 30'      | (30') |        48 | 10 / 120      | 20,000    |
+| Galley, Small | 100' x 15'     | 210 tons |   90 | 20'      | (20') |   36 / 24 | 8 / 75        | 15,000    |
+| Galley, Large | 120' x 20'     | 375 tons |  160 | 30'      | (25') |   42 / 24 | 10 / 120      | 30,000    |
+| Longship      | 110' x 15'     | 10 tons  |   70 | 30'      | (25') |   42 / 24 | 9 / 110       | 25,000    |
+| Raft/Barge    | per 10' x 10'  | 1 ton    |    2 | 40'      | (10') |        18 | 6 / 12        | 100       |
+| Riverboat     | 50' x 20'      | 50 tons  |   10 | 20'      | (20') |        30 | 8 / 30        | 3,500     |
+| Rowboat       | 15' x 6'       | 1 ton    |    1 | 30'      | (10') |        24 | 6 / 8         | 60        |
+| Sailboat      | 40' x 8'       | 5 tons   |    1 | 40'      | (15') |        36 | 7 / 20        | 2,000     |
+|---------------+----------------+----------+------+----------+-------+-----------+---------------+-----------|
+* Siege Engines Table
+Siege Engines Table:
+
+|---------------+--------+--------------+----------------+--------+------------------+-------------------+-----------------|
+| Weapon        | Cost   | Rate of Fire | Attack Penalty | Damage | Short Range (+1) | Medium Range (+0) | Long Range (-2) |
+|---------------+--------+--------------+----------------+--------+------------------+-------------------+-----------------|
+| Ballista      | 100 gp | 1/4          |             -3 |    2d8 | 50'              | 100'              | 150'            |
+| Battering Ram | 200 gp | 1/3          |             +0 |    2d8 | N/A              | N/A               | N/A             |
+| Onager        | 300 gp | 1/6          |             -6 |   2d12 | 100'             | 200'              | 300'            |
+| Trebuchet     | 400 gp | 1/10         |             -8 |   3d10 | N/A              | 300'              | 400'            |
+|---------------+--------+--------------+----------------+--------+------------------+-------------------+-----------------|
+
+* Spell Tables
+** Cleric Spells
+*** First Level Cleric Spells Table
+First Level Cleric Spells Table:
+|---+-----------------------|
+| # | Spell                 |
+|---+-----------------------|
+| 1 | Cure Light Wounds*    |
+| 2 | Detect Evil*          |
+| 3 | Detect Magic          |
+| 4 | Light*                |
+| 5 | Protection from Evil* |
+| 6 | Purify Food and Water |
+| 7 | Remove Fear*          |
+| 8 | Resist Cold           |
+|---+-----------------------|
+
+*** Second Level Cleric Spells Table
+Second Level Cleric Spells Table:
+
+|---+--------------------|
+| # | Spell              |
+|---+--------------------|
+| 1 | Bless*             |
+| 2 | Charm Animal       |
+| 3 | Find Traps         |
+| 4 | Hold Person        |
+| 5 | Resist Fire        |
+| 6 | Silence 15' radius |
+| 7 | Speak with Animals |
+| 8 | Spiritual Hammer   |
+
+*** Third Level Cleric Spells Table
+Third Level Cleric Spells Table:
+
+|---+-------------------|
+| # | Spell             |
+|---+-------------------|
+| 1 | Continual Light*  |
+| 2 | Cure Blindness    |
+| 3 | Cure Disease*     |
+| 4 | Growth of Animals |
+| 5 | Locate Object     |
+| 6 | Remove Curse*     |
+| 7 | Speak with Dead   |
+| 8 | Striking          |
+|---+-------------------|
+
+*** Fourth Level Cleric Spells Table
+Fourth Level Cleric Spells Table:
+
+|---+----------------------------------|
+| # | Spell                            |
+|---+----------------------------------|
+| 1 | Animate Dead                     |
+| 2 | Create Water                     |
+| 3 | Cure Serious Wounds*             |
+| 4 | Dispel Magic                     |
+| 5 | Neutralize Poison*               |
+| 6 | Protection from Evil 10' radius* |
+| 7 | Speak with Plants                |
+| 8 | Sticks to Snakes                 |
+|---+----------------------------------|
+
+*** Fifth Level Cleric Spells Table:
+Fifth Level Cleric Spells Table:
+
+|---+---------------|
+| # | Spell         |
+|---+---------------|
+| 1 | Commune       |
+| 2 | Create Food   |
+| 3 | Dispel Evil   |
+| 4 | Insect Plague |
+| 5 | Quest*        |
+| 6 | Raise Dead*   |
+| 7 | True Seeing   |
+| 8 | Wall of Fire  |
+|---+---------------|
+
+*** Sixth Level Cleric Spells Table
+Sixth Level Cleric Spells Table:
+
+|---+---------------------|
+| # | Spell               |
+|---+---------------------|
+| 1 | Animate Objects     |
+| 2 | Blade Barrier       |
+| 3 | Find the Path       |
+| 4 | Heal*               |
+| 5 | Regenerate          |
+| 6 | Restoration         |
+| 7 | Speak with Monsters |
+| 8 | Word of Recall      |
+|---+---------------------|
+
+** Magic-User Spells Tables
+
+*** First Level Magic-User Spells Table:
+First Level Magic-User Spells Table:
+
+|----+-----------------------|
+|  # | Spell                 |
+|----+-----------------------|
+|  1 | Charm Person          |
+|  2 | Detect Magic          |
+|  3 | Floating Disc         |
+|  4 | Hold Portal           |
+|  5 | Light*                |
+|  6 | Magic Missile         |
+|  7 | Magic Mouth           |
+|  8 | Protection from Evil* |
+|  9 | Read Languages        |
+| 10 | Shield                |
+| 11 | Sleep                 |
+| 12 | Ventriloquism         |
+|----+-----------------------|
+
+*** Second Level Magic-User Spells Table:
+Second Level Magic-User Spells Table:
+
+|----+------------------|
+|  # | Spell            |
+|----+------------------|
+|  1 | Continual Light* |
+|  2 | Detect Evil*     |
+|  3 | Detect Invisible |
+|  4 | ESP              |
+|  5 | Invisibility     |
+|  6 | Knock            |
+|  7 | Levitate         |
+|  8 | Locate Object    |
+|  9 | Mirror Image     |
+| 10 | Phantasmal Force |
+| 11 | Web              |
+| 12 | Wizard Lock      |
+|----+------------------|
+
+*** Third Level Magic-User Spells Table
+Third Level Magic-User Spells Table:
+
+|----+----------------------------------|
+|  # | Spell                            |
+|----+----------------------------------|
+|  1 | Clairvoyance                     |
+|  2 | Darkvision                       |
+|  3 | Dispel Magic                     |
+|  4 | Fireball                         |
+|  5 | Fly                              |
+|  6 | Haste*                           |
+|  7 | Hold Person                      |
+|  8 | Invisibility 10‘ radius          |
+|  9 | Lightning Bolt                   |
+| 10 | Protection from Evil 10’ radius* |
+| 11 | Protection from Normal Missiles  |
+| 12 | Water Breathing                  |
+|----+----------------------------------|
+
+*** Fourth Level Magic-User Spells Table
+Fourth Level Magic-User Spells Table:
+
+|----+-----------------------|
+|  # | Spell                 |
+|----+-----------------------|
+|  1 | Charm Monster         |
+|  2 | Confusion             |
+|  3 | Dimension Door        |
+|  4 | Growth of Plants*     |
+|  5 | Hallucinatory Terrain |
+|  6 | Ice Storm             |
+|  7 | Massmorph             |
+|  8 | Polymorph Other       |
+|  9 | Polymorph Self        |
+| 10 | Remove Curse*         |
+| 11 | Wall of Fire          |
+| 12 | Wizard Eye            |
+|----+-----------------------|
+
+*** Fifth Level Magic-User Spells Table:
+Fifth Level Magic-User Spells Table:
+
+|----+-------------------|
+|  # | Spell             |
+|----+-------------------|
+|  1 | Animate Dead      |
+|  2 | Cloudkill         |
+|  3 | Conjure Elemental |
+|  4 | Feeblemind        |
+|  5 | Hold Monster      |
+|  6 | Magic Jar         |
+|  7 | Passwall          |
+|  8 | Telekinesis       |
+|  9 | Teleport          |
+| 10 | Wall of Stone     |
+|----+-------------------|
+
+*** Sixth Level Magic-User Spells Table:
+Sixth Level Magic-User Spells Table:
+
+|----+-------------------|
+|  # | Spell             |
+|----+-------------------|
+|  1 | Anti-Magic Shell  |
+|  2 | Death Spell       |
+|  3 | Disintegrate      |
+|  4 | Flesh to Stone*   |
+|  5 | Geas*             |
+|  6 | Invisible Stalker |
+|  7 | Lower Water       |
+|  8 | Projected Image   |
+|  9 | Reincarnate       |
+| 10 | Wall of Iron      |
+|----+-------------------|
+
+** All Spells, in Alphabetical Order
+
+(Confusion)
+
+|-------+----------------------------------------------------------------------------------------------|
+| d20   | Behavior                                                                                     |
+|-------+----------------------------------------------------------------------------------------------|
+| 1–2   | Attack caster with melee or ranged weapons (or close with caster if attack is not possible). |
+| 3–4   | Act normally.                                                                                |
+| 5–10  | Do nothing but babble incoherently.                                                          |
+| 11–14 | Flee away from caster at top possible speed.                                                 |
+| 15–20 | Attack nearest creature.                                                                     |
+|-------+----------------------------------------------------------------------------------------------|
+
+(Reincarnate)
+
+|-------+---------------------|
+| d%    | Incarnation         |
+|-------+---------------------|
+| 01–02 | Bugbear             |
+| 03–17 | Dwarf               |
+| 18–28 | Elf                 |
+| 29    | Gnoll               |
+| 30–39 | Gnome               |
+| 40–44 | Goblin              |
+| 45–63 | Halfling            |
+| 64–88 | Human               |
+| 89–92 | Kobold              |
+| 93    | Lizard Man          |
+| 94–98 | Orc                 |
+| 99    | Troglodyte          |
+| 100   | Other (GM's choice) |
+|-------+---------------------|
+
+(Teleport)
+
+|-------------------+-----------+------------+--------------+--------|
+| Familiarity       | On Target | Off Target | Similar Area | Mishap |
+|-------------------+-----------+------------+--------------+--------|
+| Very familiar     | 01–97     | 98–99      | 100          | —      |
+| Studied carefully | 01–94     | 95–97      | 98–99        | 100    |
+| Seen casually     | 01–88     | 89–94      | 95–98        | 99–100 |
+| Viewed once       | 01–76     | 77–88      | 89–96        | 97–100 |
+| False destination | —         | —          | 81–92        | 93–100 |
+|-------------------+-----------+------------+--------------+--------|
+* Dungeon Adventure Tables
+** Carrying Capacity Table
+Carrying Capacity Table:
+
+|----------+-------------------+------------+------------+------------|
+|          | Dwarf, Elf, Human |            |   Halfling |            |
+| Strength |        Light Load | Heavy Load | Light Load | Heavy Load |
+|----------+-------------------+------------+------------+------------|
+|        3 |                25 |         60 |         20 |         40 |
+|      4-5 |                35 |         90 |         30 |         60 |
+|      6-8 |                50 |        120 |         40 |         80 |
+|     9-12 |                60 |        150 |         50 |        100 |
+|    13-15 |                65 |        165 |         55 |        110 |
+|    16-17 |                70 |        180 |         60 |        120 |
+|       18 |                80 |        195 |         65 |        130 |
+|----------+-------------------+------------+------------+------------|
+
+** Movement And Encumbrance Table
+Movement And Encumbrance Table:
+
+|------------------------------+----------------+----------------|
+| Armor Type                   | Lightly Loaded | Heavily Loaded |
+|------------------------------+----------------+----------------|
+| No Armor or Magic Leather    | 40'            | 30'            |
+| Leather Armor or Magic Metal | 30'            | 20'            |
+| Metal Armor                  | 20'            | 10'            |
+|------------------------------+----------------+----------------|
+* Wilderness Adventures Tables
+** Wilderness Movement Rates Table
+
+Wilderness Movement Rates Table:
+
+|-------------------------------------+-------------------------------------|
+| Encounter Movement (Feet per Round) | Wilderness Movement (Miles per Day) |
+|-------------------------------------+-------------------------------------|
+| 10'                                 |                                   6 |
+| 20'                                 |                                  12 |
+| 30'                                 |                                  18 |
+| 40'                                 |                                  24 |
+| 50'                                 |                                  30 |
+| 60'                                 |                                  36 |
+| 70'                                 |                                  42 |
+| 80'                                 |                                  48 |
+| 90'                                 |                                  54 |
+| 100'                                |                                  60 |
+| 110'                                |                                  66 |
+| 120'                                |                                  72 |
+|-------------------------------------+-------------------------------------|
+
+** Overland Travel Table
+Overland Travel Table:
+
+|--------------------------+------------|
+| Terrain                  | Adjustment |
+|--------------------------+------------|
+| Jungle, Mountains, Swamp | x1/3       |
+| Desert, Forest, Hills    | x2/3       |
+| Clear, Plains, Trail     | x1         |
+| Road (Paved)             | x1 1/3     |
+|--------------------------+------------|
+
+** Waterborne Travel Wind Direction Table
+Waterborne Travel Wind Direction Table:
+
+|------+-------------------------------------------|
+|  d12 | Wind Direction                            |
+|------+-------------------------------------------|
+|    1 | Northerly                                 |
+|    2 | Northeasterly                             |
+|    3 | Easterly                                  |
+|    4 | Southeasterly                             |
+|    5 | Southerly                                 |
+|    6 | Southwesterly                             |
+|    7 | Westerly                                  |
+|    8 | Northwesterly                             |
+| 9-12 | Prevailing wind direction for this locale |
+|------+-------------------------------------------|
+
+** Waterborne Travel Wind Conditions Table:
+Waterborne Travel Wind Conditions Table:
+
+|-------+-------------------+---------+---------|
+|    d% | Wind Conditions   | Sailing | Tacking |
+|-------+-------------------+---------+---------|
+| 01-05 | Becalmed          | x0      | x0      |
+| 06-13 | Very Light Breeze | x1/3    | x0      |
+| 14-25 | Light Breeze      | x1/2    | x1/3    |
+| 26-40 | Moderate Breeze   | x2/3    | x1/3    |
+| 41-70 | Average Winds     | x1      | x1/2    |
+| 71-85 | Strong Winds      | x1 1/3  | x2/3    |
+| 86-96 | Very Strong Winds | x1 1/2  | x0      |
+| 97-00 | Gale              | x2      | x0      |
+|-------+-------------------+---------+---------|
+
+* Retainers Specialists and Mercenaries Tables
+** Retainers Table:
+Retainers Table:
+
+|-------------------+------------------------------|
+| Adjusted Die Roll | Result                       |
+|-------------------+------------------------------|
+|         2 or less | Refusal, -1 on further rolls |
+|               3-5 | Refusal                      |
+|               6-8 | Try again                    |
+|              9-11 | Acceptance                   |
+|        12 or more | Acceptance, +1 to Loyalty    |
+|-------------------+------------------------------|
+
+** Specialists Table
+Specialists Table:
+
+|-------------+--------|
+| Seaman Type | Cost   |
+|-------------+--------|
+| Captain     | 300 gp |
+| Navigator   | 200 gp |
+| Sailor      | 10 gp  |
+| Rower       | 3 gp   |
+|-------------+--------|
+
+** Mercenaries Table
+Mercenaries Table:
+
+|------------------------+------+-----------------------------------------------+--------|
+| Type of Mercenary      | Cost | Equipment                                     | Morale |
+|------------------------+------+-----------------------------------------------+--------|
+| Light Foot, Human      |    2 | Leather Armor, Shield, and Longsword          |      8 |
+| Light Foot, Elf        |    8 | Leather Armor, Shield, and Longsword          |      8 |
+| Light Foot, Orc        |    1 | Leather Armor and Spear                       |      7 |
+| Heavy Foot, Human      |    3 | Chainmail, Shield, and Longsword              |      8 |
+| Heavy Foot, Dwarf      |    6 | Chainmail, Shield, and Shortsword             |      9 |
+| Heavy Foot, Orc        |    2 | Chainmail, Shield, and Shortsword             |      8 |
+| Archer, Human          |    5 | Leather Armor, Shortbow, and Shortsword       |      8 |
+| Archer, Elf            |   15 | Chainmail, Shortbow, and Shortsword           |      8 |
+| Archer, Orc            |    3 | Leather Armor, Shortbow, and Shortsword       |      8 |
+| Crossbowman, Human     |    5 | Chainmail, Crossbow, and Shortsword           |      8 |
+| Crossbowman, Dwarf     |   12 | Platemail, Crossbow, and Shortsword           |      9 |
+| Longbowman, Human      |    9 | Chainmail, Longbow, and Shortsword            |      8 |
+| Longbowman, Elf        |   20 | Chainmail, Longbow, and Longsword             |      8 |
+| Light Horseman, Human  |   10 | Leather Armor, Shield, Lance, and Longsword   |      8 |
+| Light Horseman, Elf    |   22 | Leather Armor, Lance, Shortbow, and Longsword |      8 |
+| Medium Horseman, Human |   15 | Chainmail, Shield, Lance, and Longsword       |      8 |
+| Medium Horseman, Elf   |   33 | Chainmail, Lance, Shortbow, and Longsword     |      9 |
+| Heavy Horseman, Human  |   20 | Platemail, Shield, Lance, and Longsword       |      8 |
+|------------------------+------+-----------------------------------------------+--------|
+
+* Attack Bonus Table
+Attack Bonus Table:
+
+|---------------+-----------------------+------------------+------------------+--------------|
+| Fighter Level | Cleric or Thief Level | Magic-User Level | Monster Hit Dice | Attack Bonus |
+|---------------+-----------------------+------------------+------------------+--------------|
+|            NM |                       |                  |      less than 1 |           +0 |
+|             1 |                   1-2 |              1-3 |                1 |           +1 |
+|           2-3 |                   3-4 |              4-5 |                2 |           +2 |
+|             4 |                   5-6 |              6-8 |                3 |           +3 |
+|           5-6 |                   7-8 |             9-12 |                4 |           +4 |
+|             7 |                  9-11 |            13-15 |                5 |           +5 |
+|          8-10 |                 12-14 |            16-18 |                6 |           +6 |
+|         11-12 |                 15-17 |            19-20 |                7 |           +7 |
+|         13-15 |                 18-20 |                  |              8-9 |           +8 |
+|         16-17 |                       |                  |            10-11 |           +9 |
+|         18-20 |                       |                  |            12-13 |          +10 |
+|               |                       |                  |            14-15 |          +11 |
+|               |                       |                  |            16-19 |          +12 |
+|               |                       |                  |            20-23 |          +13 |
+|               |                       |                  |            24-27 |          +14 |
+|               |                       |                  |            28-31 |          +15 |
+|               |                       |                  |       32 or more |          +16 |
+|---------------+-----------------------+------------------+------------------+--------------|
+
+* Experience Points (XP) Table
+Experience Points (XP) Table:
+
+|-------------+----------+-----------------------|
+|  Monster HD | XP Value | Special Ability Bonus |
+|-------------+----------+-----------------------|
+| less than 1 |       10 |                     3 |
+|           1 |       25 |                    12 |
+|           2 |       75 |                    25 |
+|           3 |      145 |                    30 |
+|           4 |      240 |                    40 |
+|           5 |      360 |                    45 |
+|           6 |      500 |                    55 |
+|           7 |      670 |                    65 |
+|           8 |      875 |                    70 |
+|           9 |     1075 |                    75 |
+|          10 |     1300 |                    90 |
+|          11 |     1575 |                    95 |
+|          12 |     1875 |                   100 |
+|          13 |     2175 |                   110 |
+|          14 |     2500 |                   115 |
+|          15 |     2850 |                   125 |
+|          16 |     3250 |                   135 |
+|          17 |     3600 |                   145 |
+|          18 |     4000 |                   160 |
+|          19 |     4500 |                   175 |
+|          20 |     5250 |                   200 |
+|          21 |     6000 |                   225 |
+|          22 |     6750 |                   250 |
+|          23 |     7500 |                   275 |
+|          24 |     8250 |                   300 |
+|          25 |     9000 |                   325 |
+|-------------+----------+-----------------------|
+
+* Order Of Play Tables
+** Monster Reactions Table
+Monster Reactions Table:
+
+|-------------------+------------------|
+| Adjusted Die Roll | Result           |
+|-------------------+------------------|
+| 2 or less         | Immediate Attack |
+| 3-7               | Unfavorable      |
+| 8-11              | Favorable        |
+| 12 or more        | Very Favorable   |
+|-------------------+------------------|
+
+* Clerics Vs. Undead Table
+Clerics Vs. Undead Table:
+
+|--------------+-----------+------------+------------+------------+------------+------------+------------+------------+------------|
+| Cleric Level | Skeleton  | Zombie     |      Ghoul |      Wight |     Wraith |      Mummy |    Spectre |    Vampire | Ghost      |
+|              | 1 Hit Die | 2 Hit Dice | 3 Hit Dice | 4 Hit Dice | 5 Hit Dice | 6 Hit Dice | 7 Hit Dice | 8 Hit Dice | 9 Hit Dice |
+|--------------+-----------+------------+------------+------------+------------+------------+------------+------------+------------|
+|            1 | 13        | 17         |         19 |         No |         No |         No |         No |         No | No         |
+|            2 | 11        | 15         |         18 |         20 |         No |         No |         No |         No | No         |
+|            3 | 9         | 13         |         17 |         19 |         No |         No |         No |         No | No         |
+|            4 | 7         | 11         |         15 |         18 |         20 |         No |         No |         No | No         |
+|            5 | 5         | 9          |         13 |         17 |         19 |         No |         No |         No | No         |
+|            6 | 3         | 7          |         11 |         15 |         18 |         20 |         No |         No | No         |
+|            7 | 2         | 5          |          9 |         13 |         17 |         19 |         No |         No | No         |
+|            8 | T         | 3          |          7 |         11 |         15 |         18 |         20 |         No | No         |
+|            9 | T         | 2          |          5 |          9 |         13 |         17 |         19 |         No | No         |
+|           10 | T         | T          |          3 |          7 |         11 |         15 |         18 |         20 | No         |
+|           11 | D         | T          |          2 |          5 |          9 |         13 |         17 |         19 | No         |
+|           12 | D         | T          |          T |          3 |          7 |         11 |         15 |         18 | 20         |
+|           13 | D         | D          |          T |          2 |          5 |          9 |         13 |         17 | 19         |
+|           14 | D         | D          |          T |          T |          3 |          7 |         11 |         15 | 18         |
+|           15 | D         | D          |          D |          T |          2 |          5 |          9 |         13 | 17         |
+|           16 | D         | D          |          D |          T |          T |          3 |          7 |         11 | 15         |
+|           17 | D         | D          |          D |          D |          T |          2 |          5 |          9 | 13         |
+|           18 | D         | D          |          D |          D |          T |          T |          3 |          7 | 11         |
+|           19 | D         | D          |          D |          D |          D |          T |          2 |          5 | 9          |
+|           20 | D         | D          |          D |          D |          D |          T |          T |          3 | 7          |
+|--------------+-----------+------------+------------+------------+------------+------------+------------+------------+------------|
+* Saving Throw Tables By Class
+** Cleric Saving Throw Table
+Cleric Saving Throw Table:
+
+|-------+---------------------+-------------+----------------------+---------------+--------|
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Petrify | Dragon Breath | Spells |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+|     1 |                  11 |          12 |                   14 |            16 |     15 |
+|   2-3 |                  10 |          11 |                   13 |            15 |     14 |
+|   4-5 |                   9 |          10 |                   13 |            15 |     14 |
+|   6-7 |                   9 |          10 |                   12 |            14 |     13 |
+|   8-9 |                   8 |           9 |                   12 |            14 |     13 |
+| 10-11 |                   8 |           9 |                   11 |            13 |     12 |
+| 12-13 |                   7 |           8 |                   11 |            13 |     12 |
+| 14-15 |                   7 |           8 |                   10 |            12 |     11 |
+| 16-17 |                   6 |           7 |                   10 |            12 |     11 |
+| 18-19 |                   6 |           7 |                    9 |            11 |     10 |
+|    20 |                   5 |           6 |                    9 |            11 |     10 |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+
+** Fighter Saving Throw Table
+Fighter Saving Throw Table:
+
+|-------+---------------------+-------------+----------------------+---------------+--------|
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Petrify | Dragon Breath | Spells |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+|    NM |                  13 |          14 |                   15 |            16 |     18 |
+|     1 |                  12 |          13 |                   14 |            15 |     17 |
+|   2-3 |                  11 |          12 |                   14 |            15 |     16 |
+|   4-5 |                  11 |          11 |                   13 |            14 |     15 |
+|   6-7 |                  10 |          11 |                   12 |            14 |     15 |
+|   8-9 |                   9 |          10 |                   12 |            13 |     14 |
+| 10-11 |                   9 |           9 |                   11 |            12 |     13 |
+| 12-13 |                   8 |           9 |                   10 |            12 |     13 |
+| 14-15 |                   7 |           8 |                   10 |            11 |     12 |
+| 16-17 |                   7 |           7 |                    9 |            10 |     11 |
+| 18-19 |                   6 |           7 |                    8 |            10 |     11 |
+|    20 |                   5 |           6 |                    8 |             9 |     10 |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+
+** Magic-User Saving Throw Table
+Magic-User Saving Throw Table:
+
+|-------+---------------------+-------------+----------------------+---------------+--------|
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Petrify | Dragon Breath | Spells |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+|     1 |                  13 |          14 |                   13 |            16 |     15 |
+|   2-3 |                  13 |          14 |                   13 |            15 |     14 |
+|   4-5 |                  12 |          13 |                   12 |            15 |     13 |
+|   6-7 |                  12 |          12 |                   11 |            14 |     13 |
+|   8-9 |                  11 |          11 |                   10 |            14 |     12 |
+| 10-11 |                  11 |          10 |                    9 |            13 |     11 |
+| 12-13 |                  10 |          10 |                    9 |            13 |     11 |
+| 14-15 |                  10 |           9 |                    8 |            12 |     10 |
+| 16-17 |                   9 |           8 |                    7 |            12 |      9 |
+| 18-19 |                   9 |           7 |                    6 |            11 |      9 |
+|    20 |                   8 |           6 |                    5 |            11 |      8 |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+
+** Thief Saving Throw Table
+Thief Saving Throw Table:
+
+|-------+---------------------+-------------+----------------------+---------------+--------|
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Petrify | Dragon Breath | Spells |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+|     1 |                  13 |          14 |                   13 |            16 |     15 |
+|   2-3 |                  12 |          14 |                   12 |            15 |     14 |
+|   4-5 |                  11 |          13 |                   12 |            14 |     13 |
+|   6-7 |                  11 |          13 |                   11 |            11 |     13 |
+|   8-9 |                  10 |          12 |                   11 |            12 |     12 |
+| 10-11 |                   9 |          12 |                   10 |            11 |     11 |
+| 12-13 |                   9 |          10 |                   10 |            10 |     11 |
+| 14-15 |                   8 |          10 |                    9 |             9 |     10 |
+| 16-17 |                   7 |           9 |                    9 |             8 |      9 |
+| 18-19 |                   7 |           9 |                    8 |             7 |      9 |
+|    20 |                   6 |           8 |                    8 |             6 |      8 |
+|-------+---------------------+-------------+----------------------+---------------+--------|
+* Treasure Types Tables
+*** Lair Treasures Table
+Lair Treasures Table:
+
+|------+-----------------+-----------------+-------------------+---------------+-------------------+-----------+----------+--------------------------------------------------|
+| Type | 100's of Copper | 100's of Silver | 100's of Electrum | 100's of Gold | 100's of Platinum | Gems      | Jewelry  | Magic Items                                      |
+|------+-----------------+-----------------+-------------------+---------------+-------------------+-----------+----------+--------------------------------------------------|
+| A    | 50% 5d6         | 60% 5d6         | 40% 5d4           | 70% 10d6      | 50% 1d10          | 50% 6d6   | 50% 6d6  | 30% any 3                                        |
+| B    | 75% 5d10        | 50% 5d6         | 50% 5d4           | 50% 3d6       | None              | 25% 1d6   | 25% 1d6  | 10% 1 weapon or armor                            |
+| C    | 60% 6d6         | 60% 5d4         | 30% 2d6           | None          | None              | 25% 1d4   | 25% 1d4  | 15% any 1d2                                      |
+| D    | 30% 4d6         | 45% 6d6         | None              | 90% 5d8       | None              | 30% 1d8   | 30% 1d8  | 20% any 1d2 + 1 potion                           |
+| E    | 30% 2d8         | 60% 6d10        | 50% 3d8           | 50% 4d10      | None              | 10% 1d10  | 10% 1d10 | 30% any 1d4 + 1 scroll                           |
+| F    | None            | 40% 3d8         | 50% 4d8           | 85% 6d10      | 70% 2d8           | 20% 2d12  | 10% 1d12 | 35% any 1d4 except weapons + 1 potion + 1 scroll |
+| G    | None            | None            | None              | 90% 4d6x10    | 75% 5d8           | 25% 3d6   | 25% 1d10 | 50% any 1d4 + 1 scroll                           |
+| H    | 75% 8d10        | 75% 6d10x10     | 75% 3d10x10       | 75% 5d8x10    | 75% 9d8           | 50% 1d100 | 50% 10d4 | 20% any 1d4 + 1 potion + 1 scroll                |
+| I    | None            | None            | None              | None          | 80% 3d10          | 50% 2d6   | 50% 2d6  | 15% any 1                                        |
+| J    | 45% 3d8         | 45% 1d8         | None              | None          | None              | None      | None     | None                                             |
+| K    | None            | 90% 2d10        | 35% 1d8           | None          | None              | None      | None     | None                                             |
+| L    | None            | None            | None              | None          | None              | 50% 1d4   | None     | None                                             |
+| M    | None            | None            | None              | 90% 4d10      | 90% 2d8x10        | 55% 5d4   | 45% 2d6  | None                                             |
+| N    | None            | None            | None              | None          | None              | None      | None     | 40% 2d4 potions                                  |
+| O    | None            | None            | None              | None          | None              | None      | None     | 50% 1d4 scrolls                                  |
+|------+-----------------+-----------------+-------------------+---------------+-------------------+-----------+----------+--------------------------------------------------|
+
+*** Individual Treasures Table
+Individual Treasures Table:
+
+|------+------------------+------------------+--------------------+----------------+--------------------+---------+---------+-------------|
+| Type | Pieces of Copper | Pieces of Silver | Pieces of Electrum | Pieces of Gold | Pieces of Platinum | Gems    | Jewelry | Magic Items |
+|------+------------------+------------------+--------------------+----------------+--------------------+---------+---------+-------------|
+| P    | 3d8              | None             | None               | None           | None               | None    | None    | None        |
+| Q    | None             | 3d6              | None               | None           | None               | None    | None    | None        |
+| R    | None             | None             | 2d6                | None           | None               | None    | None    | None        |
+| S    | None             | None             | None               | 2d4            | None               | None    | None    | None        |
+| T    | None             | None             | None               | None           | 1d6                | None    | None    | None        |
+| U    | 50% 1d20         | 50% 1d20         | None               | 25% 1d20       | None               | 5% 1d4  | 5% 1d4  | 2% Any 1    |
+| V    | None             | 25% 1d20         | 25% 1d20           | 50% 1d20       | 25% 1d20           | 10% 1d4 | 10% 1d4 | 5% Any 1    |
+|------+------------------+------------------+--------------------+----------------+--------------------+---------+---------+-------------|
+
+*** Unguarded Treasures Table
+Unguarded Treasures Table:
+
+|-------+-----------------+-----------------+-------------------+---------------+-------------------+---------+---------+-------------|
+| Level | 100's of Copper | 100's of Silver | 100's of Electrum | 100's of Gold | 100's of Platinum | Gems    | Jewelry | Magic Items |
+|-------+-----------------+-----------------+-------------------+---------------+-------------------+---------+---------+-------------|
+|     1 | 75% 1d8         | 50% 1d6         | 25% 1d4           | 7% 1d4        | 1% 1d4            | 7% 1d4  | 3% 1d4  | 2% Any 1    |
+|     2 | 50% 1d10        | 50% 1d8         | 25% 1d6           | 20% 1d6       | 2% 1d4            | 10% 1d6 | 7% 1d4  | 5% Any 1    |
+|     3 | 30% 2d6         | 50% 1d10        | 25% 1d8           | 50% 1d6       | 4% 1d4            | 15% 1d6 | 7% 1d6  | 8% Any 1    |
+|   4-5 | 20% 3d6         | 50% 2d6         | 25% 1d10          | 50% 2d6       | 8% 1d4            | 20% 1d8 | 10% 1d6 | 12% Any 1   |
+|   6-7 | 15% 4d6         | 50% 3d6         | 25% 1d12          | 70% 2d8       | 15% 1d4           | 30% 1d8 | 15% 1d6 | 16% Any 1   |
+|    8+ | 10% 5d6         | 50% 5d6         | 25% 2d8           | 75% 4d6       | 30% 1d4           | 40% 1d8 | 30% 1d8 | 20% Any 1   |
+|-------+-----------------+-----------------+-------------------+---------------+-------------------+---------+---------+-------------|
+
+*** Gems and Jewelry Table
+Gems and Jewelry Table:
+
+|-------+--------------+---------------------------+--------------|
+|    d% | Type         | Base Value in Gold Pieces | Number Found |
+|-------+--------------+---------------------------+--------------|
+| 01-20 | Ornamental   |                        10 |         1d10 |
+| 21-45 | Semiprecious |                        50 |          1d8 |
+| 46-75 | Fancy        |                       100 |          1d6 |
+| 76-95 | Precious     |                       500 |          1d4 |
+| 96-00 | Gem          |                      1000 |          1d2 |
+|       | Jewel        |                      5000 |            1 |
+|-------+--------------+---------------------------+--------------|
+
+|-----+-----------------------|
+| 2d6 | Value Adjustment      |
+|-----+-----------------------|
+|   2 | Next Lower Value Row  |
+|   3 | 1/2                   |
+|   4 | 3/4                   |
+| 5-9 | Normal Value          |
+|  10 | 1.5 Times             |
+|  11 | 2 Times               |
+|  12 | Next Higher Value Row |
+|-----+-----------------------|
+
+|-------+-------------|
+|    d% | Gem Type    |
+|-------+-------------|
+| 01-10 | Greenstone  |
+| 11-20 | Malachite   |
+| 21-28 | Aventurine  |
+| 29-38 | Phenalope   |
+| 39-45 | Amethyst    |
+| 46-54 | Fluorospar  |
+| 55-60 | Garnet      |
+| 61-65 | Alexandrite |
+| 66-70 | Topaz       |
+| 71-75 | Bloodstone  |
+| 76-79 | Sapphire    |
+| 80-89 | Diamond     |
+| 90-94 | Fire Opal   |
+| 95-97 | Ruby        |
+| 98-00 | Emerald     |
+|-------+-------------|
+
+|-------+---------------|
+|    d% | Type          |
+|-------+---------------|
+| 01-06 | Anklet        |
+| 07-12 | Belt          |
+| 13-14 | Bowl          |
+| 15-21 | Bracelet      |
+| 22-27 | Brooch        |
+| 28-32 | Buckle        |
+| 33-37 | Chain         |
+| 38-40 | Choker        |
+| 41-42 | Circlet       |
+| 43-47 | Clasp         |
+| 48-51 | Comb          |
+|    52 | Crown         |
+| 53-55 | Cup           |
+| 56-62 | Earring       |
+| 63-65 | Flagon        |
+| 66-68 | Goblet        |
+| 69-73 | Knife         |
+| 74-77 | Letter Opener |
+| 78-80 | Locket        |
+| 81-82 | Medal         |
+| 83-89 | Necklace      |
+|    90 | Plate         |
+| 91-95 | Pin           |
+|    96 | Sceptre       |
+| 97-99 | Statuette     |
+|    00 | Tiara         |
+|-------+---------------|
+* Magic Item Generation Table
+Magic Item Generation Table:
+
+|-------+-----------------+------------------+---------------------|
+|   Any | Weapon or Armor | Any Exc. Weapons | Type of Item        |
+|-------+-----------------+------------------+---------------------|
+| 01-25 |           01-70 |                  | Weapon              |
+| 26-35 |           71-00 |            01-12 | Armor               |
+| 36-55 |                 |            13-40 | Potion              |
+| 56-85 |                 |            41-79 | Scroll              |
+| 86-90 |                 |            80-86 | Ring                |
+| 91-95 |                 |            87-93 | Wand, Staff, or Rod |
+| 96-00 |                 |            94-00 | Miscellaneous Magic |
+|-------+-----------------+------------------+---------------------|
+* Explanation Of Magic Items Tables
+** Scrolls Table
+Scrolls Table:
+
+|-------+----------------|
+|    d% | Level of Spell |
+|-------+----------------|
+| 01-30 | 1st            |
+| 31-55 | 2nd            |
+| 56-75 | 3rd            |
+| 76-88 | 4th            |
+| 89-97 | 5th            |
+| 98-00 | 6th            |
+|-------+----------------|
+
+** Ring Of Spell Storing Table
+Ring Of Spell Storing Table:
+
+|-------+-------------|
+|    d% | # of Spells |
+|-------+-------------|
+| 01-24 |           1 |
+| 25-48 |           2 |
+| 49-67 |           3 |
+| 68-81 |           4 |
+| 82-91 |           5 |
+| 92-96 |           6 |
+| 97-00 |           7 |
+|-------+-------------|
+
+** Determining Level Of Spell For Ring Table
+Determining Level Of Spell For Ring Table:
+
+|-------+----------------|
+|    d% | Level of Spell |
+|-------+----------------|
+| 01-30 | 1st            |
+| 31-55 | 2nd            |
+| 56-75 | 3rd            |
+| 76-85 | 4th            |
+| 86-97 | 5th            |
+| 98-00 | 6th            |
+|-------+----------------|
+
+** Miscellaneous Magic Items Table
+Miscellaneous Magic Items Table:
+
+|--------------------------------------------+--------|
+| Knowledge and Connection                   | Chance |
+|--------------------------------------------+--------|
+| Secondhand Knowledge (heard of)            |    25% |
+| Firsthand Knowledge (seen briefly)         |    55% |
+| Familiar (known well)                      |    95% |
+| Possession or garment                      |   +25% |
+| Body part, lock of hair, bit of nail, etc. |   +50% |
+|--------------------------------------------+--------|
+* Game Master Information Tables
+** Dungeon Encounters Table (Level 1 to 3)
+Dungeon Encounters Table (Level 1 to 3):
+
+|----------+-----------------------+---------------------------+-----------------------|
+| Die Roll | Level 1               | Level 2                   | Level 3               |
+|----------+-----------------------+---------------------------+-----------------------|
+|        1 | Bee, Giant            | Beetle, Giant Bombardier  | Ant, Giant            |
+|        2 | Goblin                | Fly, Giant                | Ape, Carnivorous      |
+|        3 | Green Slime*          | Ghoul                     | Beetle, Giant Tiger   |
+|        4 | Kobold                | Gnoll                     | Bugbear               |
+|        5 | NPC Party: Adventurer | Gray Ooze                 | Doppleganger          |
+|        6 | NPC Party: Bandit     | Hobgoblin                 | Gargoyle*             |
+|        7 | Orc                   | Lizard Man                | Gelatinous Cube       |
+|        8 | Skeleton              | NPC Party: Adventurer     | Lycanthrope, Wererat* |
+|        9 | Snake, Cobra          | Snake, Pit Viper          | Ogre                  |
+|       10 | Spider, Giant Crab    | Spider, Giant Black Widow | Shadow*               |
+|       11 | Stirge                | Troglodyte                | Tentacle Worm         |
+|       12 | Wolf                  | Zombie                    | Wight*                |
+|----------+-----------------------+---------------------------+-----------------------|
+
+** Dungeon Encounters Table (Level 4 to 8+)
+Dungeon Encounters Table (Level 4 to 8+):
+
+|----------+-----------------------+---------------------------+-----------------------|
+| Die Roll | Level 4-5              | Level 6-7               | Level 8+               |
+|----------+------------------------+-------------------------+------------------------|
+|        1 | Bear, Cave             | Basilisk                | Black Pudding          |
+|        2 | Caecilia, Giant        | Black Pudding           | Chimera                |
+|        3 | Cockatrice             | Caecilia, Giant         | Giant, Hill            |
+|        4 | Doppleganger           | Displacer               | Giant, Stone           |
+|        5 | Gray Ooze              | Hydra                   | Hydra                  |
+|        6 | Hellhound              | Lycanthrope, Weretiger* | Lycanthrope, Wereboar* |
+|        7 | Lycanthrope, Werewolf* | Mummy*                  | Purple Worm            |
+|        8 | Minotaur               | Owlbear                 | Salamander, Flame*     |
+|        9 | Ochre Jelly*           | Rust Monster*           | Salamander, Frost*     |
+|       10 | Owlbear                | Scorpion, Giant         | Vampire*               |
+|       11 | Rust Monster*          | Spectre*                |                        |
+|       12 | Wraith*                | Troll                   |                        |
+|----------+-----------------------+---------------------------+-----------------------|
+
+** Wilderness Encounters Table (Desert Or Barren, Grassland, Or Inhabited Territories)
+Wilderness Encounters Table (Desert Or Barren, Grassland, Or Inhabited Territories):
+
+|----------+-------------------------+----------------------+-----------------------|
+| Die Roll | Desert or Barren        | Grassland            | Inhabited Territories |
+|----------+-------------------------+----------------------+-----------------------|
+|        2 | Dragon, Blue            | Dragon, Green        | Dragon, Gold          |
+|        3 | Hellhound               | Troll                | Ghoul                 |
+|        4 | Giant, Fire             | Fly, Giant           | Bugbear               |
+|        5 | Purple Worm             | Scorpion, Giant      | Goblin                |
+|        6 | Fly, Giant              | NPC Party:  Bandit   | Centaur               |
+|        7 | Scorpion, Giant         | Lion                 | NPC Party:  Bandit    |
+|        8 | Camel                   | Boar, Wild           | NPC Party:  Merchant  |
+|        9 | Spider, Giant Tarantula | NPC Party:  Merchant | NPC Party:  Pilgrim   |
+|       10 | NPC Party:  Merchant    | Wolf                 | NPC Party:  Noble     |
+|       11 | Hawk                    | Bee, Giant           | Dog                   |
+|       12 | NPC Party:  Bandit      | Gnoll                | Gargoyle*             |
+|       13 | Ogre                    | Goblin               | Gnoll                 |
+|       14 | Griffon                 | Blink Dog            | Ogre                  |
+|       15 | Gnoll                   | Wolf, Dire           | Minotaur              |
+|       16 | Dragon, Red             | Giant, Hill          | Vampire*              |
+|----------+-------------------------+----------------------+-----------------------|
+
+** Wilderness Encounters Table (Jungle, Mountain Or Hills, Ocean)
+Wilderness Encounters Table (Jungle, Mountain Or Hills, Ocean):
+
+|----------+-------------------------+-----------------------------------------+--------------------------------|
+| Die Roll | Jungle                  | Mountains or Hills                      | Ocean                          |
+|----------+-------------------------+-----------------------------------------+--------------------------------|
+|        2 | Dragon, Green           | Dragon, White                           | Dragon, Sea                    |
+|        3 | NPC Party:  Bandit      | Roc (1d6: 1-3 Large, 4-5 Huge, 6 Giant) | Hydra                          |
+|        4 | Goblin                  | Displacer                               | Whale, Sperm                   |
+|        5 | Hobgoblin               | Lycanthrope, Werewolf*                  | Crocodile, Giant               |
+|        6 | Centipede, Giant        | Mountain Lion                           | Crab, Giant                    |
+|        7 | Snake, Giant Python     | Wolf                                    | Whale, Killer                  |
+|        8 | Elephant                | Spider, Giant Crab                      | Octopus, Giant                 |
+|        9 | Antelope                | Hawk                                    | Shark, Mako                    |
+|       10 | Jaguar                  | Orc                                     | NPC Party:  Merchant           |
+|       11 | Stirge                  | Bat, Giant                              | NPC Party:  Buccaneer (Pirate) |
+|       12 | Beetle, Giant Tiger     | Hawk, Giant                             | Shark, Bull                    |
+|       13 | Caecilia, Giant         | Giant, Hill                             | Roc (1d8: 1-5 Huge, 6-8 Giant) |
+|       14 | Shadow*                 | Chimera                                 | Shark, Great White             |
+|       15 | NPC Party:  Merchant    | Wolf, Dire                              | Mermaid                        |
+|       16 | Lycanthrope, Weretiger* | Dragon, Red                             | Sea Serpent                    |
+|----------+-------------------------+-----------------------------------------+--------------------------------|
+
+** Wilderness Encounters Table (River Or Riverside, Swamp, Woods Or Forest)
+Wilderness Encounters Table (River Or Riverside, Swamp, Woods Or Forest):
+
+|----------+-----------------------+-------------------------------+-----------------------|
+| Die Roll | River or Riverside    | Swamp                         | Woods or Forest       |
+|----------+-----------------------+-------------------------------+-----------------------|
+|        2 | Dragon, Black         | Dragon, Black                 | Dragon, Green         |
+|        3 | Fish, Giant Piranha   | Shadow*                       | Alicorn (see Unicorn) |
+|        4 | Stirge                | Troll                         | Treant                |
+|        5 | Fish, Giant Bass      | Lizard, Giant Draco           | Orc                   |
+|        6 | NPC Party:  Merchant  | Centipede, Giant              | Boar, Wild            |
+|        7 | Lizardman             | Leech, Giant                  | Bear, Black           |
+|        8 | Crocodile             | Lizardman                     | Hawk, Giant           |
+|        9 | Frog, Giant           | Crocodile                     | Antelope              |
+|       10 | Fish, Giant Catfish   | Stirge                        | Wolf                  |
+|       11 | NPC Party:  Buccaneer | Orc                           | Ogre                  |
+|       12 | Troll                 | Toad, Giant (see Frog, Giant) | Bear, Grizzly         |
+|       13 | Jaguar                | Troglodyte                    | Wolf, Dire            |
+|       14 | Nixie                 | Blood Rose                    | Giant, Hill           |
+|       15 | Water Termite, Giant  | Hangman Tree                  | Owlbear               |
+|       16 | Dragon, Green         | Basilisk                      | Unicorn               |
+|----------+-----------------------+-------------------------------+-----------------------|
+
+** City, Town or Village Encounters Table
+City, Town or Village Encounters Table:
+
+|----------+-----------------------+-----------------------|
+| Die Roll | Day Encounter         | Night Encounter       |
+|----------+-----------------------+-----------------------|
+|        2 | Doppleganger          | Doppleganger          |
+|        3 | Noble                 | Shadow*               |
+|        4 | Thief                 | Press Gang            |
+|        5 | Bully                 | Beggar                |
+|        6 | City Watch            | Thief                 |
+|        7 | Merchant              | Bully                 |
+|        8 | Beggar                | Merchant              |
+|        9 | Priest                | Giant Rat             |
+|       10 | Mercenary             | City Watch            |
+|       11 | Wizard                | Wizard                |
+|       12 | Lycanthrope, Wererat* | Lycanthrope, Wererat* |
+|----------+-----------------------+-----------------------|
+
+** Optional Rules Tables
+*** Ability Rolls Table
+Ability Rolls Table:
+
+|---------+--------|
+|   Level | Target |
+|---------+--------|
+| NM or 1 |     17 |
+|     2-3 |     16 |
+|     4-5 |     15 |
+|     6-7 |     14 |
+|     8-9 |     13 |
+|   10-11 |     12 |
+|   12-13 |     11 |
+|   14-15 |     10 |
+|   16-17 |      9 |
+|   18-19 |      8 |
+|      20 |      7 |
+|---------+--------|
+
+** Magical Research Tables
+*** Other Magic Items Cost Per Charge And Charges Per Day Table
+Other Magic Items Cost Per Charge And Charges Per Day Table:
+
+|--------------+-----------------+-----------------+--------|
+| Charge Level | Cost per Charge | Charges per Day | Chance |
+|--------------+-----------------+-----------------+--------|
+|          2-3 | +150 gp         |               1 | - 5%   |
+|          4-7 | +125 gp         |               2 | - 10%  |
+|         8-20 | +100 gp         |               3 | - 20%  |
+|        21-30 | +75 gp          |               4 | - 30%  |
+|--------------+-----------------+-----------------+--------|
+
+*** Other Magic Items Charging Rate Table
+Other Magic Items Charging Rate Table:
+
+|---------------+------+------+--------|
+| Charging Rate | Cost | Time | Chance |
+|---------------+------+------+--------|
+| 1 per day     | x 3  | x 2  | - 10%  |
+| All per day   | x 5  | x 3  | - 30%  |
+| All per week  | x 4  | x 2  | - 20%  |
+|---------------+------+------+--------|
+
+** Creating a Dungeon Adventure Tables
+*** Stock The Dungeon Table
+Stock The Dungeon Table:
+
+|-------+-----------------------|
+|    d% | Contents              |
+|-------+-----------------------|
+| 01-16 | Empty                 |
+| 17-20 | Unguarded Treasure    |
+| 21-60 | Monster               |
+| 61-84 | Monster with Treasure |
+| 85-88 | Special               |
+| 89-96 | Trap                  |
+| 97-00 | Trap with Treasure    |
+|-------+-----------------------|
+
+** Stronghold Followers Table
+Stronghold Followers Table:
+
+|------------+---------------------|
+| Class      | Number of Followers |
+|------------+---------------------|
+| Fighter    |                 3d6 |
+| Magic-User |                 1d8 |
+| Cleric     |                 2d8 |
+| Thief      |                 2d6 |
+|------------+---------------------|
+
+** Stronghold Materials Table
+Stronghold Materials Table:
+
+|-------------------+----------+----------+-----------+-----------|
+| Wall material     | 1' thick | 5' thick | 10' thick | 15' thick |
+| Maximum height    | 40'      | 60'      | 80'       | 100'      |
+|-------------------+----------+----------+-----------+-----------|
+| Wood (H 6)        | 10 gp    | n/a      | n/a       | n/a       |
+| Brick (H 8)       | 20 gp    | 50 gp    | n/a       | n/a       |
+| Soft stone (H 12) | 30 gp    | 70 gp    | 200 gp    | n/a       |
+| Hard stone (H 16) | 40 gp    | 90 gp    | 260 gp    | 350 gp    |
+|-------------------+----------+----------+-----------+-----------|
+
+** Stronghold Material Excavation Table
+Stronghold Material Excavation Table:
+
+|------------+-------------------------------------------|
+| Material   | Time for one worker to excavate a 5’ cube |
+|------------+-------------------------------------------|
+| Earth      | 5 days (supports are required)            |
+| Soft stone | 10 days                                   |
+| Hard stone | 20 days                                   |
+|------------+-------------------------------------------|
